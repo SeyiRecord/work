@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 After several attmpts, I hope this works.
 
 == Welcome to Rails
@@ -261,3 +262,7 @@ vendor
   External libraries that the application depends on. Also includes the plugins
   subdirectory. If the app has frozen rails, those gems also go here, under
   vendor/rails/. This directory is in the load path.
+=======
+work
+====
+>>>>>>> c873c95e729f833be9ccece6e701114805dd8e17
